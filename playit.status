@@ -1,0 +1,222 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: RequestError(TooManyRequests)
+[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1730665274027 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsFsvAAAAAQAAAAEAAAAAAAAAAHMpOj-iNaE3l7b644CL4b0cENHeTfG3SvvI10RthXl2
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665277162 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsFsvAAAAAQAAAAEAAAAAAAAAAHMpOj-iNaE3l7b644CL4b0cENHeTfG3SvvI10RthXl2
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665280232 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsFsvAAAAAQAAAAEAAAAAAAAAAHMpOj-iNaE3l7b644CL4b0cENHeTfG3SvvI10RthXl2
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665295348 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsK5zAAAAAQAAAAEAAAAAAAAAAB_qMEJwGqmfkNf5RdV74Y82iPgdK2Hk1JSvu4B4uehY
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665298464 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsK5zAAAAAQAAAAEAAAAAAAAAAB_qMEJwGqmfkNf5RdV74Y82iPgdK2Hk1JSvu4B4uehY
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665301628 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsK5zAAAAAQAAAAEAAAAAAAAAAB_qMEJwGqmfkNf5RdV74Y82iPgdK2Hk1JSvu4B4uehY
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665304692 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsK5zAAAAAQAAAAEAAAAAAAAAAB_qMEJwGqmfkNf5RdV74Y82iPgdK2Hk1JSvu4B4uehY
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665307747 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsK5zAAAAAQAAAAEAAAAAAAAAAB_qMEJwGqmfkNf5RdV74Y82iPgdK2Hk1JSvu4B4uehY
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665322846 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsRpLAAAAAQAAAAEAAAAAAAAAABH7WtmJhbNQ65aYlCubsICsQUIW4bpPAf3MPqpEDbvk
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665326118 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsRpLAAAAAQAAAAEAAAAAAAAAABH7WtmJhbNQ65aYlCubsICsQUIW4bpPAf3MPqpEDbvk
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665329182 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsRpLAAAAAQAAAAEAAAAAAAAAABH7WtmJhbNQ65aYlCubsICsQUIW4bpPAf3MPqpEDbvk
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665332248 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsRpLAAAAAQAAAAEAAAAAAAAAABH7WtmJhbNQ65aYlCubsICsQUIW4bpPAf3MPqpEDbvk
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665335420 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsRpLAAAAAQAAAAEAAAAAAAAAABH7WtmJhbNQ65aYlCubsICsQUIW4bpPAf3MPqpEDbvk
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665338478 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsVbwAAAAAQAAAAEAAAAAAAAAAE0kdBqf78N0knx2smHW4Bxy8UpI-GmGXu5NRW8QAp2b
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665341623 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsVbwAAAAAQAAAAEAAAAAAAAAAE0kdBqf78N0knx2smHW4Bxy8UpI-GmGXu5NRW8QAp2b
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665344690 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsVbwAAAAAQAAAAEAAAAAAAAAAE0kdBqf78N0knx2smHW4Bxy8UpI-GmGXu5NRW8QAp2b
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665347747 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsVbwAAAAAQAAAAEAAAAAAAAAAE0kdBqf78N0knx2smHW4Bxy8UpI-GmGXu5NRW8QAp2b
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665362845 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsbYgAAAAAQAAAAEAAAAAAAAAAMoW3RvwWMDaodNRwIiYLUTyrCfgS9klRIXTpQ82c4XF
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665365975 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsbYgAAAAAQAAAAEAAAAAAAAAAMoW3RvwWMDaodNRwIiYLUTyrCfgS9klRIXTpQ82c4XF
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665369159 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsbYgAAAAAQAAAAEAAAAAAAAAAMoW3RvwWMDaodNRwIiYLUTyrCfgS9klRIXTpQ82c4XF
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665372224 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsbYgAAAAAQAAAAEAAAAAAAAAAMoW3RvwWMDaodNRwIiYLUTyrCfgS9klRIXTpQ82c4XF
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665375285 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsbYgAAAAAQAAAAEAAAAAAAAAAMoW3RvwWMDaodNRwIiYLUTyrCfgS9klRIXTpQ82c4XF
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665378346 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsfKvAAAAAQAAAAEAAAAAAAAAAFxLL3oC3uPoMJoQ697GHrFvcbpMjGan-pml3D6SCBiU
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665393498 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsi3bAAAAAQAAAAEAAAAAAAAAAHwbJNbyawJeP4T1Pjf1D4tZYMggBC3aRIbplJguFrv-
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665396612 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsi3bAAAAAQAAAAEAAAAAAAAAAHwbJNbyawJeP4T1Pjf1D4tZYMggBC3aRIbplJguFrv-
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665399670 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsi3bAAAAAQAAAAEAAAAAAAAAAHwbJNbyawJeP4T1Pjf1D4tZYMggBC3aRIbplJguFrv-
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665402730 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsi3bAAAAAQAAAAEAAAAAAAAAAHwbJNbyawJeP4T1Pjf1D4tZYMggBC3aRIbplJguFrv-
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665405831 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsi3bAAAAAQAAAAEAAAAAAAAAAHwbJNbyawJeP4T1Pjf1D4tZYMggBC3aRIbplJguFrv-
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665408930 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsmoiAAAAAQAAAAEAAAAAAAAAAOqcXwdoeEhhf66ovflcn_NF88tMtxXLZeB92kYgo_tS
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1730665424070 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsqVGAAAAAQAAAAEAAAAAAAAAAJa1l7EXCiToYer3qkub-_YWUdBuhoJBUkhhdTJtq3Pn
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665427188 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsqVGAAAAAQAAAAEAAAAAAAAAAJa1l7EXCiToYer3qkub-_YWUdBuhoJBUkhhdTJtq3Pn
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665430253 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsqVGAAAAAQAAAAEAAAAAAAAAAJa1l7EXCiToYer3qkub-_YWUdBuhoJBUkhhdTJtq3Pn
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665433310 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsqVGAAAAAQAAAAEAAAAAAAAAAJa1l7EXCiToYer3qkub-_YWUdBuhoJBUkhhdTJtq3Pn
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1730665436366 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAA1OIwAAAZLzsqVGAAAAAQAAAAEAAAAAAAAAAJa1l7EXCiToYer3qkub-_YWUdBuhoJBUkhhdTJtq3Pn
+
+TUNNELS
+safe-nitrogen.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
